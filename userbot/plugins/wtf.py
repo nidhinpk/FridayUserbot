@@ -18,11 +18,11 @@ async def _(event):
     animation_ttl = range(0, 5)
     await event.edit("wtf")
     animation_chars = [
-            "What",
-            "What The",
-            "What The F",
-            "What The F Brah",
-            "[What The F Brah](https://telegra.ph//file/f3b760e4a99340d331f9b.jpg)"
+            "Son",
+            "ye",
+            "Jin",
+            "Son Ye Jin 🔥🔥♥️",
+            
         ]
 
     for i in animation_ttl:
