@@ -18,7 +18,7 @@ USER_BOT_NO_WARN = ("    ╔┓┏╦━━╦┓╔┓╔━━╗ \n║┗┛�
                     "**I Serve This My boss 🔥 "
                     f"{DEFAULTUSER} 🔥**.\n\n"
                     "**My boss Will Approve you To PM but if you want you can Register Your Request!**\n\n"
-                    "Send `/start` To Register Your Request!!")
+                    "Send `/start` To Register Your Request!!") 🤩
 
 
 
